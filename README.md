@@ -1,5 +1,6 @@
 <h1 align="center">Olympics Data Analysis and Predictions Project 🏅</h1>
 
+![Olympics 2024](https://raw.githubusercontent.com/Preethisreeallam/images/main/olympics.png)
 
 
 
